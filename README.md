@@ -1,3 +1,9 @@
+<h2>Amazon Shop Clone</h2>
+<h3>Uses: React NextJs (SSR)</h3>
+<h3>Redux Tools</h3>
+<h3>TailwindCSS</h3>
+<h3>NextAuth</h3>
+
 # Installation Steps
 
 ## Using npm
