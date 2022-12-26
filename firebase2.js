@@ -17,7 +17,7 @@ const Firestore = require("@google-cloud/firestore");
 
 const db = new Firestore({
   projectId: "infra-lodge-371413",
-  keyFilename: "/Users/rob/Amazon-clone/credentials.json",
+  keyFilename: "credentials.json",
 });
 
 export default db;
